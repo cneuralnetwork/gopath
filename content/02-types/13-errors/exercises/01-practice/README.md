@@ -1,0 +1,3 @@
+# Errors are values: practice 1
+
+Implement `TransformC13ErrorsE1(n int) int` so it returns `n + 14`. Keep the program runnable. Try the visible tests, then think about zero and negative input.

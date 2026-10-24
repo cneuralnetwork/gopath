@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Benchmarks, examples and fuzzing",
+    "kind": "concept",
+    "body": "Benchmarks measure repeated work; examples become documentation and executable checks. Fuzzing searches unexpected inputs from seed cases.",
+    "example": "func BenchmarkWork(b *testing.B) { for i := 0; i < b.N; i++ { Work() } }"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

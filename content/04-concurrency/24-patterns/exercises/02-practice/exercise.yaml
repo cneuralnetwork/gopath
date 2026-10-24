@@ -1,0 +1,10 @@
+{
+  "id": "c24-patterns-e2",
+  "title": "Concurrency patterns: practice 2",
+  "difficulty": "intermediate",
+  "hints": [
+    "The expected result is the input plus 26.",
+    "Start from n and add the offset directly.",
+    "Use return n + 26."
+  ]
+}

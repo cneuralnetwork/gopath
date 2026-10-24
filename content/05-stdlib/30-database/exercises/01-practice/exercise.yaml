@@ -1,0 +1,10 @@
+{
+  "id": "c30-database-e1",
+  "title": "Databases: practice 1",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 31.",
+    "Start from n and add the offset directly.",
+    "Use return n + 31."
+  ]
+}

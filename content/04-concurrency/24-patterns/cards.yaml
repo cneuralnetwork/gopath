@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Concurrency patterns",
+    "kind": "concept",
+    "body": "Worker pools bound concurrency. Fan-out distributes work and fan-in gathers it. Close a pipeline only after all senders finish.",
+    "example": "for job := range jobs { results <- work(job) }"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "c32-design-interfaces-e2",
+  "title": "Interfaces in design: practice 2",
+  "difficulty": "intermediate",
+  "hints": [
+    "The expected result is the input plus 34.",
+    "Start from n and add the offset directly.",
+    "Use return n + 34."
+  ]
+}

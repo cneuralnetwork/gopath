@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Maps",
+    "kind": "concept",
+    "body": "A map lookup can return a value and a presence flag. A nil map can be read but assigning to it panics. Iteration order is unspecified.",
+    "example": "m := map[string]int{\"go\": 1}; n, ok := m[\"go\"]; fmt.Println(n, ok)"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

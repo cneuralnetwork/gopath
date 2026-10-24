@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Basic types",
+    "kind": "concept",
+    "body": "Go does not silently convert between numeric types. A rune is a Unicode code point; a byte is an alias for uint8. strconv converts numbers and strings.",
+    "example": "n := 42; s := strconv.Itoa(n); fmt.Println(s)"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

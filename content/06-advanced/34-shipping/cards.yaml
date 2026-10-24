@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Building and shipping",
+    "kind": "concept",
+    "body": "Build for another OS with GOOS and GOARCH. ldflags can stamp a version. embed packages assets into a single binary.",
+    "example": "go build -ldflags \"-X main.version=1.0\" ./cmd/app"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "c06-slices-e2",
+  "title": "Arrays and slices: practice 2",
+  "difficulty": "intermediate",
+  "hints": [
+    "The expected result is the input plus 8.",
+    "Start from n and add the offset directly.",
+    "Use return n + 8."
+  ]
+}

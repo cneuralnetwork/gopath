@@ -1,0 +1,10 @@
+{
+  "id": "c26-io-e1",
+  "title": "I/O and files: practice 1",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 27.",
+    "Start from n and add the offset directly.",
+    "Use return n + 27."
+  ]
+}

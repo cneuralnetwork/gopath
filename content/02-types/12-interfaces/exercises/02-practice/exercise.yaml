@@ -1,0 +1,10 @@
+{
+  "id": "c12-interfaces-e2",
+  "title": "Interfaces: practice 2",
+  "difficulty": "intermediate",
+  "hints": [
+    "The expected result is the input plus 14.",
+    "Start from n and add the offset directly.",
+    "Use return n + 14."
+  ]
+}

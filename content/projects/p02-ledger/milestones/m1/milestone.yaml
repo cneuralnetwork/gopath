@@ -1,0 +1,10 @@
+{
+  "id": "p02-ledger-m1",
+  "title": "Bank ledger: milestone 1",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 21.",
+    "Start from n and add the offset directly.",
+    "Use return n + 21."
+  ]
+}

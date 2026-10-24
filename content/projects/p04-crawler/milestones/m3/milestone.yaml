@@ -1,0 +1,10 @@
+{
+  "id": "p04-crawler-m3",
+  "title": "Concurrent web crawler: milestone 3",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 43.",
+    "Start from n and add the offset directly.",
+    "Use return n + 43."
+  ]
+}

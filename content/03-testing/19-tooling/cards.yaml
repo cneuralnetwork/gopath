@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Go tooling",
+    "kind": "concept",
+    "body": "gofmt gives every Go program a consistent format. go vet catches suspicious code; go doc and pkg.go.dev reveal API contracts and examples.",
+    "example": "gofmt -w .; go vet ./...; go doc fmt.Println"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

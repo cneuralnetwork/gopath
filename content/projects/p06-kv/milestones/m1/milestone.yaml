@@ -1,0 +1,10 @@
+{
+  "id": "p06-kv-m1",
+  "title": "In-memory key-value store: milestone 1",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 61.",
+    "Start from n and add the offset directly.",
+    "Use return n + 61."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "c08-strings-e1",
+  "title": "Strings in depth: practice 1",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 9.",
+    "Start from n and add the offset directly.",
+    "Use return n + 9."
+  ]
+}

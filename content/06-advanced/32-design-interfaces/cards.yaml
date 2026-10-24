@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Interfaces in design",
+    "kind": "concept",
+    "body": "Accept small interfaces where behavior varies and return concrete types. A constructor can inject dependencies without a framework.",
+    "example": "type Reader interface { Read([]byte) (int, error) }"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

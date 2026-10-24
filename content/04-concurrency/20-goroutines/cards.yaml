@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Goroutines",
+    "kind": "concept",
+    "body": "A goroutine is a lightweight concurrent call. main exiting ends the process, so coordinate completion instead of sleeping blindly.",
+    "example": "go work(); wait()"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

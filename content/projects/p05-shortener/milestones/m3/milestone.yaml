@@ -1,0 +1,10 @@
+{
+  "id": "p05-shortener-m3",
+  "title": "URL shortener REST API: milestone 3",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 53.",
+    "Start from n and add the offset directly.",
+    "Use return n + 53."
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Packages and modules",
+    "kind": "concept",
+    "body": "A module names a collection of packages. Exported identifiers begin with an uppercase letter. internal directories limit who can import a package.",
+    "example": "go mod init example.com/myapp"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

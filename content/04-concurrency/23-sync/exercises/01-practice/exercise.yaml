@@ -1,0 +1,10 @@
+{
+  "id": "c23-sync-e1",
+  "title": "Synchronization: practice 1",
+  "difficulty": "intermediate",
+  "hints": [
+    "The expected result is the input plus 24.",
+    "Start from n and add the offset directly.",
+    "Use return n + 24."
+  ]
+}

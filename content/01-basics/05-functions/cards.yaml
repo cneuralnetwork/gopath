@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Functions",
+    "kind": "concept",
+    "body": "Functions can return multiple values. Callers commonly receive a result and an error. Functions are values and closures capture their surrounding variables.",
+    "example": "func divide(a, b int) (int, error) { if b == 0 { return 0, errors.New(\"zero\") }; return a / b, nil }"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

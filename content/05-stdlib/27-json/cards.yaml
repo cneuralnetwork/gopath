@@ -1,0 +1,14 @@
+[
+  {
+    "title": "JSON",
+    "kind": "concept",
+    "body": "JSON tags name fields. Marshal and Unmarshal work for whole values; Decoder handles streams. Check errors and keep untrusted input bounded.",
+    "example": "data, err := json.Marshal(value)"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

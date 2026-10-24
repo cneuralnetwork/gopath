@@ -1,0 +1,10 @@
+{
+  "id": "c33-reflection-e1",
+  "title": "Reflection and unsafe: practice 1",
+  "difficulty": "intermediate",
+  "hints": [
+    "The expected result is the input plus 34.",
+    "Start from n and add the offset directly.",
+    "Use return n + 34."
+  ]
+}

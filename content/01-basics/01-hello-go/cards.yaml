@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Hello, Go",
+    "kind": "concept",
+    "body": "A Go program starts in package main. The main function is its entry point. fmt.Println adds spaces between arguments and a newline; fmt.Printf follows format verbs.",
+    "example": "package main; import \"fmt\"; func main() { fmt.Println(\"Hello, Go\") }"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Select and timeouts",
+    "kind": "concept",
+    "body": "select waits for one ready communication. A default branch makes it nonblocking. A context deadline often scales better than many independent timers.",
+    "example": "select { case v := <-ch: fmt.Println(v); case <-time.After(time.Second): fmt.Println(\"timeout\") }"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

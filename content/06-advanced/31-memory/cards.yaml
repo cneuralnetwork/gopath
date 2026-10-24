@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Memory and performance",
+    "kind": "concept",
+    "body": "Measure before optimizing. Escape analysis explains when values move to the heap; pprof finds hot paths and allocations.",
+    "example": "go test -bench . -benchmem; go build -gcflags=-m ."
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

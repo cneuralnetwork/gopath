@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Reflection and unsafe",
+    "kind": "concept",
+    "body": "Reflection inspects types at runtime; unsafe can bypass memory guarantees. Most application code is clearer with ordinary types or generics.",
+    "example": "t := reflect.TypeOf(value)"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

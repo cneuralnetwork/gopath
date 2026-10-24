@@ -1,0 +1,10 @@
+{
+  "id": "c20-goroutines-e1",
+  "title": "Goroutines: practice 1",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 21.",
+    "Start from n and add the offset directly.",
+    "Use return n + 21."
+  ]
+}

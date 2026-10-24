@@ -1,0 +1,14 @@
+[
+  {
+    "title": "I/O and files",
+    "kind": "concept",
+    "body": "io.Reader and io.Writer let code handle files, buffers and networks uniformly. bufio adds buffering and convenient scanning.",
+    "example": "data, err := os.ReadFile(\"input.txt\")"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

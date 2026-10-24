@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Defer, panic and recover",
+    "kind": "concept",
+    "body": "Defer schedules cleanup when the surrounding function returns. Panic unwinds the stack; recover belongs at carefully chosen boundaries.",
+    "example": "f, err := os.Open(name); if err != nil { return err }; defer f.Close()"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

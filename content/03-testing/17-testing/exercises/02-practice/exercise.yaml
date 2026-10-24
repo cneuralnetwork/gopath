@@ -1,0 +1,10 @@
+{
+  "id": "c17-testing-e2",
+  "title": "Testing: practice 2",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 19.",
+    "Start from n and add the offset directly.",
+    "Use return n + 19."
+  ]
+}

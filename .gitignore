@@ -1,0 +1,6 @@
+/web/node_modules
+/gopath
+.DS_Store
+/.pnpm-store
+/.cache
+/local-progress

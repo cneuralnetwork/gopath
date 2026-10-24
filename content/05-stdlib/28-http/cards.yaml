@@ -1,0 +1,14 @@
+[
+  {
+    "title": "HTTP",
+    "kind": "concept",
+    "body": "Go 1.22 ServeMux understands methods and path variables. httptest exercises handlers without a real network listener.",
+    "example": "mux := http.NewServeMux(); mux.HandleFunc(\"GET /items/{id}\", handler)"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "c13-errors-e2",
+  "title": "Errors are values: practice 2",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 15.",
+    "Start from n and add the offset directly.",
+    "Use return n + 15."
+  ]
+}

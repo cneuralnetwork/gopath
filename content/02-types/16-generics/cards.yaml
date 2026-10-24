@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Generics",
+    "kind": "concept",
+    "body": "Type parameters help when one algorithm works for several types. comparable supports equality; cmp.Ordered supports ordering. Use concrete code when abstraction adds little.",
+    "example": "func First[T any](s []T) T { return s[0] }"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Interfaces",
+    "kind": "concept",
+    "body": "A type satisfies an interface implicitly by having the required methods. Prefer small interfaces. Type assertions and switches inspect the dynamic value.",
+    "example": "type Stringer interface { String() string }"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

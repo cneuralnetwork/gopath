@@ -1,0 +1,10 @@
+{
+  "id": "c29-time-log-cli-e1",
+  "title": "Time, logging and flags: practice 1",
+  "difficulty": "intermediate",
+  "hints": [
+    "The expected result is the input plus 30.",
+    "Start from n and add the offset directly.",
+    "Use return n + 30."
+  ]
+}

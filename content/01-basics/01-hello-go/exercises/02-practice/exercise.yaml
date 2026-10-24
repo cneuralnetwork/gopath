@@ -1,0 +1,10 @@
+{
+  "id": "c01-hello-go-e2",
+  "title": "Hello, Go: practice 2",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 3.",
+    "Start from n and add the offset directly.",
+    "Use return n + 3."
+  ]
+}

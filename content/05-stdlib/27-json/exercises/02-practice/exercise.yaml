@@ -1,0 +1,10 @@
+{
+  "id": "c27-json-e2",
+  "title": "JSON: practice 2",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 29.",
+    "Start from n and add the offset directly.",
+    "Use return n + 29."
+  ]
+}

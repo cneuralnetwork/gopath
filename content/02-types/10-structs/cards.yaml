@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Structs and embedding",
+    "kind": "concept",
+    "body": "Structs group related fields. Named literals protect you from field order mistakes. Embedding promotes methods but is not inheritance.",
+    "example": "type User struct { Name string; Age int }; u := User{Name: \"Ada\"}; fmt.Println(u.Name)"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

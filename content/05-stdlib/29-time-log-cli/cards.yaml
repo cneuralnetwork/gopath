@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Time, logging and flags",
+    "kind": "concept",
+    "body": "time handles durations and timestamps. log/slog gives structured records; flag parses small command-line interfaces.",
+    "example": "flag.String(\"name\", \"world\", \"who to greet\")"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

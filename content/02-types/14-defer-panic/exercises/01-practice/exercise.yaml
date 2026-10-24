@@ -1,0 +1,10 @@
+{
+  "id": "c14-defer-panic-e1",
+  "title": "Defer, panic and recover: practice 1",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 15.",
+    "Start from n and add the offset directly.",
+    "Use return n + 15."
+  ]
+}

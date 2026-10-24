@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Databases",
+    "kind": "concept",
+    "body": "database/sql separates queries from drivers. Use parameters rather than concatenating SQL. Close rows and check transaction errors.",
+    "example": "row := db.QueryRowContext(ctx, \"SELECT name FROM users WHERE id = ?\", id)"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

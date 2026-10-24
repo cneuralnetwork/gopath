@@ -1,0 +1,396 @@
+{
+  "chapters": [
+    {
+      "id": "01-basics",
+      "title": "Basics",
+      "concepts": [
+        {
+          "id": "c01-hello-go",
+          "title": "Hello, Go",
+          "dir": "01-basics/01-hello-go",
+          "keywords": [
+            "hello,",
+            "go"
+          ]
+        },
+        {
+          "id": "c02-variables",
+          "title": "Variables and constants",
+          "dir": "01-basics/02-variables",
+          "keywords": [
+            "variables",
+            "and",
+            "constants"
+          ]
+        },
+        {
+          "id": "c03-basic-types",
+          "title": "Basic types",
+          "dir": "01-basics/03-basic-types",
+          "keywords": [
+            "basic",
+            "types"
+          ]
+        },
+        {
+          "id": "c04-control-flow",
+          "title": "Control flow",
+          "dir": "01-basics/04-control-flow",
+          "keywords": [
+            "control",
+            "flow"
+          ]
+        },
+        {
+          "id": "c05-functions",
+          "title": "Functions",
+          "dir": "01-basics/05-functions",
+          "keywords": [
+            "functions"
+          ]
+        },
+        {
+          "id": "c06-slices",
+          "title": "Arrays and slices",
+          "dir": "01-basics/06-slices",
+          "keywords": [
+            "arrays",
+            "and",
+            "slices"
+          ]
+        },
+        {
+          "id": "c07-maps",
+          "title": "Maps",
+          "dir": "01-basics/07-maps",
+          "keywords": [
+            "maps"
+          ]
+        },
+        {
+          "id": "c08-strings",
+          "title": "Strings in depth",
+          "dir": "01-basics/08-strings",
+          "keywords": [
+            "strings",
+            "in",
+            "depth"
+          ]
+        },
+        {
+          "id": "c09-pointers",
+          "title": "Pointers",
+          "dir": "01-basics/09-pointers",
+          "keywords": [
+            "pointers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-types",
+      "title": "Types and structure",
+      "concepts": [
+        {
+          "id": "c10-structs",
+          "title": "Structs and embedding",
+          "dir": "02-types/10-structs",
+          "keywords": [
+            "structs",
+            "and",
+            "embedding"
+          ]
+        },
+        {
+          "id": "c11-methods",
+          "title": "Methods and receivers",
+          "dir": "02-types/11-methods",
+          "keywords": [
+            "methods",
+            "and",
+            "receivers"
+          ]
+        },
+        {
+          "id": "c12-interfaces",
+          "title": "Interfaces",
+          "dir": "02-types/12-interfaces",
+          "keywords": [
+            "interfaces"
+          ]
+        },
+        {
+          "id": "c13-errors",
+          "title": "Errors are values",
+          "dir": "02-types/13-errors",
+          "keywords": [
+            "errors",
+            "are",
+            "values"
+          ]
+        },
+        {
+          "id": "c14-defer-panic",
+          "title": "Defer, panic and recover",
+          "dir": "02-types/14-defer-panic",
+          "keywords": [
+            "defer,",
+            "panic",
+            "and",
+            "recover"
+          ]
+        },
+        {
+          "id": "c15-packages",
+          "title": "Packages and modules",
+          "dir": "02-types/15-packages",
+          "keywords": [
+            "packages",
+            "and",
+            "modules"
+          ]
+        },
+        {
+          "id": "c16-generics",
+          "title": "Generics",
+          "dir": "02-types/16-generics",
+          "keywords": [
+            "generics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-testing",
+      "title": "Testing and tooling",
+      "concepts": [
+        {
+          "id": "c17-testing",
+          "title": "Testing",
+          "dir": "03-testing/17-testing",
+          "keywords": [
+            "testing"
+          ]
+        },
+        {
+          "id": "c18-bench-fuzz",
+          "title": "Benchmarks, examples and fuzzing",
+          "dir": "03-testing/18-bench-fuzz",
+          "keywords": [
+            "benchmarks,",
+            "examples",
+            "and",
+            "fuzzing"
+          ]
+        },
+        {
+          "id": "c19-tooling",
+          "title": "Go tooling",
+          "dir": "03-testing/19-tooling",
+          "keywords": [
+            "go",
+            "tooling"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-concurrency",
+      "title": "Concurrency",
+      "concepts": [
+        {
+          "id": "c20-goroutines",
+          "title": "Goroutines",
+          "dir": "04-concurrency/20-goroutines",
+          "keywords": [
+            "goroutines"
+          ]
+        },
+        {
+          "id": "c21-channels",
+          "title": "Channels",
+          "dir": "04-concurrency/21-channels",
+          "keywords": [
+            "channels"
+          ]
+        },
+        {
+          "id": "c22-select",
+          "title": "Select and timeouts",
+          "dir": "04-concurrency/22-select",
+          "keywords": [
+            "select",
+            "and",
+            "timeouts"
+          ]
+        },
+        {
+          "id": "c23-sync",
+          "title": "Synchronization",
+          "dir": "04-concurrency/23-sync",
+          "keywords": [
+            "synchronization"
+          ]
+        },
+        {
+          "id": "c24-patterns",
+          "title": "Concurrency patterns",
+          "dir": "04-concurrency/24-patterns",
+          "keywords": [
+            "concurrency",
+            "patterns"
+          ]
+        },
+        {
+          "id": "c25-context",
+          "title": "Context",
+          "dir": "04-concurrency/25-context",
+          "keywords": [
+            "context"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05-stdlib",
+      "title": "The standard library at work",
+      "concepts": [
+        {
+          "id": "c26-io",
+          "title": "I/O and files",
+          "dir": "05-stdlib/26-io",
+          "keywords": [
+            "i/o",
+            "and",
+            "files"
+          ]
+        },
+        {
+          "id": "c27-json",
+          "title": "JSON",
+          "dir": "05-stdlib/27-json",
+          "keywords": [
+            "json"
+          ]
+        },
+        {
+          "id": "c28-http",
+          "title": "HTTP",
+          "dir": "05-stdlib/28-http",
+          "keywords": [
+            "http"
+          ]
+        },
+        {
+          "id": "c29-time-log-cli",
+          "title": "Time, logging and flags",
+          "dir": "05-stdlib/29-time-log-cli",
+          "keywords": [
+            "time,",
+            "logging",
+            "and",
+            "flags"
+          ]
+        },
+        {
+          "id": "c30-database",
+          "title": "Databases",
+          "dir": "05-stdlib/30-database",
+          "keywords": [
+            "databases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-advanced",
+      "title": "Advanced",
+      "concepts": [
+        {
+          "id": "c31-memory",
+          "title": "Memory and performance",
+          "dir": "06-advanced/31-memory",
+          "keywords": [
+            "memory",
+            "and",
+            "performance"
+          ]
+        },
+        {
+          "id": "c32-design-interfaces",
+          "title": "Interfaces in design",
+          "dir": "06-advanced/32-design-interfaces",
+          "keywords": [
+            "interfaces",
+            "in",
+            "design"
+          ]
+        },
+        {
+          "id": "c33-reflection",
+          "title": "Reflection and unsafe",
+          "dir": "06-advanced/33-reflection",
+          "keywords": [
+            "reflection",
+            "and",
+            "unsafe"
+          ]
+        },
+        {
+          "id": "c34-shipping",
+          "title": "Building and shipping",
+          "dir": "06-advanced/34-shipping",
+          "keywords": [
+            "building",
+            "and",
+            "shipping"
+          ]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "p01-wordcount",
+      "title": "Word counter CLI",
+      "after": "01-basics",
+      "dir": "projects/p01-wordcount"
+    },
+    {
+      "id": "p02-ledger",
+      "title": "Bank ledger",
+      "after": "02-types",
+      "dir": "projects/p02-ledger"
+    },
+    {
+      "id": "p03-todo",
+      "title": "Todo CLI with JSON persistence",
+      "after": "03-testing",
+      "dir": "projects/p03-todo"
+    },
+    {
+      "id": "p04-crawler",
+      "title": "Concurrent web crawler",
+      "after": "04-concurrency",
+      "dir": "projects/p04-crawler"
+    },
+    {
+      "id": "p05-shortener",
+      "title": "URL shortener REST API",
+      "after": "05-stdlib",
+      "dir": "projects/p05-shortener"
+    },
+    {
+      "id": "p06-kv",
+      "title": "In-memory key-value store",
+      "after": "06-advanced",
+      "dir": "projects/p06-kv"
+    },
+    {
+      "id": "p07-queue",
+      "title": "Rate-limited job queue service",
+      "after": "06-advanced",
+      "dir": "projects/p07-queue"
+    }
+  ]
+}

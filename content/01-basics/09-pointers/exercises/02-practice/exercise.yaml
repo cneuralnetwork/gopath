@@ -1,0 +1,10 @@
+{
+  "id": "c09-pointers-e2",
+  "title": "Pointers: practice 2",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 11.",
+    "Start from n and add the offset directly.",
+    "Use return n + 11."
+  ]
+}

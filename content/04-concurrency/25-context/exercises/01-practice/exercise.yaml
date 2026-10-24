@@ -1,0 +1,10 @@
+{
+  "id": "c25-context-e1",
+  "title": "Context: practice 1",
+  "difficulty": "intermediate",
+  "hints": [
+    "The expected result is the input plus 26.",
+    "Start from n and add the offset directly.",
+    "Use return n + 26."
+  ]
+}

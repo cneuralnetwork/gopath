@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Context",
+    "kind": "concept",
+    "body": "Pass context.Context first to operations that can stop early. Cancel promptly to release resources. Do not store contexts in structs.",
+    "example": "ctx, cancel := context.WithTimeout(parent, time.Second); defer cancel()"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

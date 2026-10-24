@@ -1,0 +1,10 @@
+{
+  "id": "c34-shipping-e2",
+  "title": "Building and shipping: practice 2",
+  "difficulty": "intermediate",
+  "hints": [
+    "The expected result is the input plus 36.",
+    "Start from n and add the offset directly.",
+    "Use return n + 36."
+  ]
+}

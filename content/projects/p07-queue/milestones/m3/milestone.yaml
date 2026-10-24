@@ -1,0 +1,10 @@
+{
+  "id": "p07-queue-m3",
+  "title": "Rate-limited job queue service: milestone 3",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 73.",
+    "Start from n and add the offset directly.",
+    "Use return n + 73."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "c11-methods-e2",
+  "title": "Methods and receivers: practice 2",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 13.",
+    "Start from n and add the offset directly.",
+    "Use return n + 13."
+  ]
+}

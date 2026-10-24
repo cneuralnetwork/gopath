@@ -1,0 +1,10 @@
+{
+  "id": "c07-maps-e2",
+  "title": "Maps: practice 2",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 9.",
+    "Start from n and add the offset directly.",
+    "Use return n + 9."
+  ]
+}

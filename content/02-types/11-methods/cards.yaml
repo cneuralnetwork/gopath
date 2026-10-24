@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Methods and receivers",
+    "kind": "concept",
+    "body": "Methods attach behavior to a named type. Pointer receivers can mutate the value; value receivers work on a copy. Keep receiver choice consistent.",
+    "example": "type Counter int; func (c *Counter) Add() { *c++ }"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

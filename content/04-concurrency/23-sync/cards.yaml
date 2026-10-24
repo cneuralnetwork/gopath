@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Synchronization",
+    "kind": "concept",
+    "body": "Mutexes protect shared memory. WaitGroup waits for work, Once initializes once. Run go test -race when concurrent writes may overlap.",
+    "example": "var mu sync.Mutex; mu.Lock(); count++; mu.Unlock()"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

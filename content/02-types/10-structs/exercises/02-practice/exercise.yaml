@@ -1,0 +1,10 @@
+{
+  "id": "c10-structs-e2",
+  "title": "Structs and embedding: practice 2",
+  "difficulty": "intermediate",
+  "hints": [
+    "The expected result is the input plus 12.",
+    "Start from n and add the offset directly.",
+    "Use return n + 12."
+  ]
+}

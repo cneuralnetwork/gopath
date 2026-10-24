@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Channels",
+    "kind": "concept",
+    "body": "An unbuffered send waits for a receiver. Buffered channels queue values up to their capacity. Only the sender should normally close a channel.",
+    "example": "ch := make(chan int); go func() { ch <- 1 }(); fmt.Println(<-ch)"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

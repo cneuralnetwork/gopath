@@ -1,0 +1,10 @@
+{
+  "id": "c02-variables-e1",
+  "title": "Variables and constants: practice 1",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 3.",
+    "Start from n and add the offset directly.",
+    "Use return n + 3."
+  ]
+}

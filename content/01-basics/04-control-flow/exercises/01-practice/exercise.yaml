@@ -1,0 +1,10 @@
+{
+  "id": "c04-control-flow-e1",
+  "title": "Control flow: practice 1",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 5.",
+    "Start from n and add the offset directly.",
+    "Use return n + 5."
+  ]
+}

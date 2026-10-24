@@ -1,0 +1,10 @@
+{
+  "id": "c31-memory-e1",
+  "title": "Memory and performance: practice 1",
+  "difficulty": "intermediate",
+  "hints": [
+    "The expected result is the input plus 32.",
+    "Start from n and add the offset directly.",
+    "Use return n + 32."
+  ]
+}

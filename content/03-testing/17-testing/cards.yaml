@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Testing",
+    "kind": "concept",
+    "body": "Go tests live in _test.go files. Table tests cover cases compactly. t.Run names subtests and t.Helper points failures at the caller.",
+    "example": "func TestAdd(t *testing.T) { if Add(1, 2) != 3 { t.Fatal(\"wrong sum\") } }"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

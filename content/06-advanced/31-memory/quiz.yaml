@@ -1,0 +1,98 @@
+[
+  {
+    "id": "q1",
+    "question": "Which practice helps you learn memory and performance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Predict a small program’s output, then run it"
+      },
+      {
+        "id": "b",
+        "text": "Skip errors to reduce code"
+      },
+      {
+        "id": "c",
+        "text": "Depend on implicit numeric conversions"
+      },
+      {
+        "id": "d",
+        "text": "Assume a map keeps insertion order"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Measure before optimizing. Escape analysis explains when values move to the heap; pprof finds hot paths and allocations."
+  },
+  {
+    "id": "q2",
+    "question": "What should you do when an operation returns an error?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ignore it if output looks plausible"
+      },
+      {
+        "id": "b",
+        "text": "Check it and add useful context"
+      },
+      {
+        "id": "c",
+        "text": "Always panic immediately"
+      },
+      {
+        "id": "d",
+        "text": "Convert it to a boolean"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Go code is easiest to maintain when behavior and failures are explicit."
+  },
+  {
+    "id": "q3",
+    "question": "What does gofmt do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Runs hidden tests"
+      },
+      {
+        "id": "b",
+        "text": "Downloads a module"
+      },
+      {
+        "id": "c",
+        "text": "Formats Go source consistently"
+      },
+      {
+        "id": "d",
+        "text": "Changes runtime behavior"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Go code is easiest to maintain when behavior and failures are explicit."
+  },
+  {
+    "id": "q4",
+    "question": "What is a useful role for a visible test?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Replace documentation entirely"
+      },
+      {
+        "id": "b",
+        "text": "Prove every possible input works"
+      },
+      {
+        "id": "c",
+        "text": "Hide the expected behavior"
+      },
+      {
+        "id": "d",
+        "text": "Show an example of the contract"
+      }
+    ],
+    "answer": "d",
+    "explanation": "Go code is easiest to maintain when behavior and failures are explicit."
+  }
+]

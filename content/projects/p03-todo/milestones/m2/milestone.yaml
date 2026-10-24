@@ -1,0 +1,10 @@
+{
+  "id": "p03-todo-m2",
+  "title": "Todo CLI with JSON persistence: milestone 2",
+  "difficulty": "intermediate",
+  "hints": [
+    "The expected result is the input plus 32.",
+    "Start from n and add the offset directly.",
+    "Use return n + 32."
+  ]
+}

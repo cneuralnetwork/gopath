@@ -1,0 +1,10 @@
+{
+  "id": "c19-tooling-e2",
+  "title": "Go tooling: practice 2",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 21.",
+    "Start from n and add the offset directly.",
+    "Use return n + 21."
+  ]
+}

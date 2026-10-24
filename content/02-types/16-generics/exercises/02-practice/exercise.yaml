@@ -1,0 +1,10 @@
+{
+  "id": "c16-generics-e2",
+  "title": "Generics: practice 2",
+  "difficulty": "intermediate",
+  "hints": [
+    "The expected result is the input plus 18.",
+    "Start from n and add the offset directly.",
+    "Use return n + 18."
+  ]
+}

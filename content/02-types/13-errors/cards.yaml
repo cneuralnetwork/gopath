@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Errors are values",
+    "kind": "concept",
+    "body": "Return errors for expected failure. Wrap with %w so errors.Is and errors.As can inspect the chain. Reserve panic for broken invariants.",
+    "example": "err := fmt.Errorf(\"read config: %w\", cause)"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

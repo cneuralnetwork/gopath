@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Strings in depth",
+    "kind": "concept",
+    "body": "A string holds bytes, normally UTF-8. Range decodes runes and yields byte offsets. strings.Builder avoids repeated allocation while building text.",
+    "example": "for i, r := range \"Go!\" { fmt.Println(i, r) }"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

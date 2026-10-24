@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Variables and constants",
+    "kind": "concept",
+    "body": "Use := inside functions when the type is clear. A declared variable has a zero value. Constants can be untyped and iota creates related constants.",
+    "example": "var count int; count = 2; name := \"Go\"; const limit = 10; _ = count + limit; _ = name"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

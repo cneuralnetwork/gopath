@@ -1,0 +1,10 @@
+{
+  "id": "p01-wordcount-m1",
+  "title": "Word counter CLI: milestone 1",
+  "difficulty": "beginner",
+  "hints": [
+    "The expected result is the input plus 11.",
+    "Start from n and add the offset directly.",
+    "Use return n + 11."
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Pointers",
+    "kind": "concept",
+    "body": "A pointer refers to a value. Use one when a method must mutate a value or copying a large struct is undesirable. Go has no pointer arithmetic.",
+    "example": "n := 3; p := &n; *p = 4; fmt.Println(n)"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]

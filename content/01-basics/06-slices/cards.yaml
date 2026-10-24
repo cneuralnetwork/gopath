@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Arrays and slices",
+    "kind": "concept",
+    "body": "A slice is a view over an underlying array. Slicing can share memory. Use copy when you need independent storage; slices contains useful helpers.",
+    "example": "s := []int{1, 2}; s = append(s, 3); fmt.Println(len(s), cap(s))"
+  },
+  {
+    "title": "go test",
+    "kind": "tool",
+    "body": "Runs package tests and reports failures.",
+    "example": "go test ./..."
+  }
+]
